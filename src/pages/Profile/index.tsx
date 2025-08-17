@@ -1,9 +1,11 @@
-const Profile = () => {
+import Profile from "../../components/profile/Profile"
+
+const ProfilePage = () => {
   return (
     <div>
-      profile
+     <Profile/>
     </div>
   )
 }
 
-export default Profile
+export default ProfilePage
