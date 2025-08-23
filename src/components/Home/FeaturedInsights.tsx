@@ -3,7 +3,7 @@ import FeatImg1 from "../../assets/feat01.jpg"; // Adjust path
 import FeatImg2 from "../../assets/feat02.jpg"; // Adjust path
 import FeatImg3 from "../../assets/feat03.jpg"; // Adjust path
 import FeatImg4 from "../../assets/feat04.jpg"; // Adjust path
-import InsightCard from "../InsightCard";
+import InsightCard from "./InsightCard";
 
 interface Insight {
   title: string;

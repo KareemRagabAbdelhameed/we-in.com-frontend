@@ -1,9 +1,11 @@
-const Explore = () => {
+import Explore from "../../components/explore/Explore"
+
+const ExplorePage = () => {
   return (
     <div>
-      Explore
+      <Explore />
     </div>
   )
 }
 
-export default Explore
+export default ExplorePage
