@@ -1,9 +1,10 @@
+import EarningsDashboard from "../../components/dashboard/EarningsDashboard";
+
 const Earnings = () => {
   return (
     <div>
-      Earnings
+      <EarningsDashboard />
     </div>
-  )
-}
-
-export default Earnings
+  );
+};
+export default Earnings;
