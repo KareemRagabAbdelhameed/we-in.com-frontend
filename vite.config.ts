@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/we-in-frontend/',  // repo name
+  base: './',
 })
